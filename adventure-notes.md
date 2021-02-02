@@ -32,9 +32,19 @@ Solicited lawyer
 - **Fish Kebob guy**  
 Rumor: shortage of grains. Road between Waterdeep and Tribor
 
+- **Erva**  
+Tiefling at Boar's Gate Tavern
+
+- **Merk**  
+Well off looking older drwaven met at Boar's Gate Tavern  
+250gp to retrieve an unicorn statue (stolen, seems sincere about being stolen)    
+It's at blue alley in sea ward  
+One of the lord of Waterdeep, lives in Castle Ward, Pike avenue.  
+
+
 ### Point of Interest
 - Taverns  
-Boar's Gate Tarven (Trades Ward)  
+Boar's Gate Tavern (Trades Ward)  
 Waking Gnome (Castle Ward)
 
 - Mask Lords runs Waterdeep
@@ -42,7 +52,7 @@ Waking Gnome (Castle Ward)
 ----
 
 
-Allies
+## Allies
 - Felgolos
 Dragon disguised as a halfling
 Exploring the world
