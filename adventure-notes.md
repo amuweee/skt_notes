@@ -4,16 +4,27 @@
 ![world map](img/world.bmp)
 
 ----
+
 # PLACES  
 
 ## Nightstone
-- Morak Urgray  
+- **Morak Urgray**   
+![Morak](img/Morak_UrGray.jpg)
+  - Pesudo-leader of Nightstone. Runs the local inn
   - Gave us a letter of recommendation to show the lords of Waterdeep
 
+## Goblin Cave near Nightstone
+- **Grindlegar**  
+  - Stone Giant  
+  - Sethrose Cloud Giant  
+  - Knew that we are coming  
+  - Ordning = Divine power holding Giants in their social hierarchy.  
+  - Something has broken the Ordning.   
+
 ## Shimmerhall
-- Breldin Brawnanvil  
+- **Breldin Brawnanvil**  
   Drwaf leader of Shimmerhall
-- Rella Brawnanvil  
+- **Rella Brawnanvil**  
   Daughter of Breldin, tried up cause an uprising to overthrow her father
 
 ## Waterdeep
@@ -42,8 +53,6 @@
 
 - **Merk**  
   - Well off looking older drwaven met at Boar's Gate Tavern  
-  - 250gp to retrieve an unicorn statue (stolen, seems sincere about being stolen)    
-  - It's at blue alley in sea ward  
   - One of the lord of Waterdeep, lives in Castle Ward, Pike avenue.  
 
 ### Point of Interest
@@ -56,27 +65,25 @@
 
 ----
 
-## Allies
-- Felgolos
+# Allies
+- **Felgolos**
   - Dragon disguised as a halfling
   - Exploring the world
   - Dislikes Zhentarim org
-- Lil'Sebastian
+- **Lil'Sebastian**
   - [DnDBeyond Link](https://www.dndbeyond.com/monsters/1447662-mastiff-dags-level-4)
-  - ![Stats](img/lil-sebastian.PNG)
+  - ![](img/lil-sebastian.PNG)
 
+---- 
 
-
-## Enemies
-- Xolkin
-    - Leader of the the spy group
-    - Felgolos kidnapped him
-
-
-----
+# Enemies
 
 ## Zhentarim 
 - Underground organization up to no good
+  - **Xolkin**  
+    ![](img/xolkin.jpg)
+    - Leader of the the spy group
+    - Felgolos kidnapped him
 
 ----
 
@@ -85,3 +92,7 @@
 - Road blockage between Waterdeep Tribor  
   - Find and return Farren Nandor (500gp) 
   - Clear the blockade (500gp)
+
+- From Merk (Waterdeep)  
+  - 250gp to retrieve an unicorn statue (stolen, seems sincere about being stolen)    
+  - It's at blue alley in sea ward  
