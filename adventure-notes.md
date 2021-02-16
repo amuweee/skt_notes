@@ -80,10 +80,15 @@
 
 ## Zhentarim 
 - Underground organization up to no good
+
   - **Xolkin**  
     ![](img/xolkin.jpg)
     - Leader of the the spy group
     - Felgolos kidnapped him
+
+  - **Kella**
+    ![](img/kella.jpg)
+    - Escaped from us at the Goblin cave  
 
 ----
 
