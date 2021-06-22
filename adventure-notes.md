@@ -50,15 +50,54 @@
 
 - **Erva**  
   - Tiefling at Boar's Gate Tavern
+  - Asked Mert to give quest details to Erva. 
 
 - **Merk**  
   - Well off looking older drwaven met at Boar's Gate Tavern  
   - One of the lord of Waterdeep, lives in Castle Ward, Pike avenue.  
+  - Has trouble with security and 
 
 ### Point of Interest
 - Taverns  
   - Boar's Gate Tavern (Trades Ward)  
   - Waking Gnome (Castle Ward)
+
+## Farmhouse west of Long Road on the way to Triboar  
+- Lagduf and Deardul
+  - Happy little halfing family
+
+## Westbridge
+- Hobgoblins had taken over the town two weeks prior to our arrival.
+- Captured by hobgoblins
+- Killed all Hobgoblins
+  - Baut (Warrior)
+  - Revnak (Ranger)
+
+- Found a note asking for the Fire Giant Lord (Duke Zalto) to send reinforcements
+
+## Triboar
+- Darathra Lord Protector of Triboar
+  - Unsure of what's going on with the Giants or why Hobgoblins are attacking.
+  - Member of the Harpers
+
+- Drunken Troll
+  - Priest tavern keeper. Mirak frequented here.
+
+- North Shield House (Tavern)
+  - Vergala - unsure of the situations neither
+
+- From the dead Fire Giants
+  - Found out that the fire giants were using some form of rod that led them to the adamantine slab
+
+
+## Yartar
+- Lord Arton Roserio
+  - Found him wrapped out in some form of goo.
+  - Likely drifted down from the river that passes from Yartar.
+  - Was out at night, remembers something about a golden goose.
+  - Remember a woman with black hair and purple dress.
+  - Golden Goose could refer to Grand Dam River Boat
+
 
 ### Notes 
 - Mask Lords runs Waterdeep
@@ -70,9 +109,10 @@
   - Dragon disguised as a halfling
   - Exploring the world
   - Dislikes Zhentarim org
-- **Lil'Sebastian**
-  - [DnDBeyond Link](https://www.dndbeyond.com/monsters/1447662-mastiff-dags-level-4)
-  - ![](img/lil-sebastian.PNG)
+- **Zephyrus**
+  - Cloud Giant
+  - Lives on the cloud tower
+  - Was attacked by a blue dragon in his tower after trying to contact another plane
 
 ---- 
 
@@ -94,10 +134,73 @@
 
 # Quests
 
-- Road blockage between Waterdeep Tribor  
+- Road blockage between Waterdeep Tribor (Helios Nandor) __DONE__
   - Find and return Farren Nandor (500gp) 
   - Clear the blockade (500gp)
 
-- From Merk (Waterdeep)  
+- From Mert (Waterdeep) __DONE__
   - 250gp to retrieve an unicorn statue (stolen, seems sincere about being stolen)    
   - It's at blue alley in sea ward  
+
+- Find Frost Giant Parshnag __DONE__
+ - Friendly roaming giant. Likes small folks
+ - Can be found in the North
+
+- Jacoldy & Thelsom __DONE__
+ - Mirak, their brother is missing. Thinks his wife killed her.
+   - Last seen in the town square
+ - Tolmora, the wife, north of the town
+ - Reward: small stack of magicla javelins
+
+
+- Darathra Shendrel
+  - Darathra is a member of the Harpers and requests you bring information to make her organization aware of the situation.  Bring a platinum badge bearing the Triboar insignia to Dral Thelev, the one-eyed, half-orc proprietor of Danivarr's House in Everlund.  Tell Dral of the giant attacks you have witnessed.  The Harpers will be able to help.
+  You receive a platinum badge with three boars on it.
+
+- Darz Helgar
+  - As a sign of thanks, Darz Helgar lets the Dags know there is a wanted outlaw named the Weevil, a dwarf wanted in Mirabar.  The reward is 5,000 gp delivered alive to the authorities in Mirabar.  Darz saw the Weevil cleaning stables in Xantharl's Keep on the Long Road, but didn't see the wanted poster until a few days later.
+  You receive a weathered rolled up wanted poster with a picture of the perp.
+
+- Urgala Meltimer
+  - One of Urgala's former adventuring companions, Harthos Zymorven, has a giant slayer greataxe. The last time Urgala spoke with him, Harthos was living in Zymorven Hall, his ancestral keep on the Rauvin Road northwest of Silverymoon.  Urgala thinks Harthos might part with the weapon if the characters mention her name to him and explain their reasoning for needing it.
+
+- Lady Dezhia Rossolio 
+  - Lost a family hairloom necklace at the casino. 500g for retrieving it, and another 500g for finding out what happened to Arton.
+
+- Dissapearance of lords in Yartar
+  - Waterbaron Nestra Ruthiol about nobles disappearing
+
+----
+
+# House Keeping Notes
+
+- Dragonscale Leather Armor to pick up at Yartar
+
+
+----
+
+# Lore
+
+Amod the Old Father 
+- God of the all giants
+- Create the structure of all giants to live by
+- Everything 
+
+King Hekathon
+- King of giant society
+- Queen is dead for unknown reasons
+
+Giant Lords
+- Hill Giant - Chief Guh
+- Stone Giant - Thane Kayalithica
+- Frost Giant - Jarl Storvald
+- Fire Giant - Duke Zalto
+- Cloud Giant - Countess Sansuri
+- Storm Giant - King Hekaton
+  - Queen is dead for unknown reasons
+
+Ordoning
+- System that kept the giants in place, keep the society in order
+
+Spine of the World (mountainous range)
+- Live an oracle that knows and can help
