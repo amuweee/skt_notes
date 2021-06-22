@@ -1,5 +1,23 @@
 # **STORM KING'S THUNDER**
 
+----
+# Nitakula Wisdomtoother
+**Feature: Wanderer**  
+  You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water and so forth.
+
+**Personality Traits**  
+  I am obsessed with keeping my face crystals shiny. An individual worthy of my attention must have beautiful face crystals. There are two kinds of people that I absolutely despise: people with bad breath, and people that talks about books. I also sometimes have trouble recognizing sarcasm, and take what people say for its face value; often led to unnecessary fights according to my past travel companions. Haste to draw blade, never miss a smash. BASH HEAD TAKE CRYSTALS.
+
+**Ideals**  
+  A foe with a face pearls still attached to their jaw is an enemy yet to be defeated. I believe in my own judgement, though decisions must not be made with rush. Once decided, it must be carried out no matter the cost.
+
+**Bonds**  
+  All I wish is to spread the wonderful good words about dental hygiene to the world
+
+**Flaws**  
+  Anybody calling me weak or looks down at me based on my physical appearance. Very very afraid of heights. Sometimes dumb as a rock.
+
+
 # World Map
 ![world map](img/world.bmp)
 
@@ -140,6 +158,7 @@
 
 - From Mert (Waterdeep) __DONE__
   - 250gp to retrieve an unicorn statue (stolen, seems sincere about being stolen)    
+<<<<<<< HEAD
   - It's at blue alley in sea ward  
 
 - Find Frost Giant Parshnag __DONE__
@@ -204,3 +223,6 @@ Ordoning
 
 Spine of the World (mountainous range)
 - Live an oracle that knows and can help
+=======
+  - It's at blue alley in sea ward 
+>>>>>>> 1542f6f4e5f077a604d85881905df6b45346749e
