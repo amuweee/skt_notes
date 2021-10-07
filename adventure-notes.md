@@ -128,6 +128,42 @@
   - Trolls have been attacking the village recently. Usually they resides in the swamps of High Forest but they've been raiding farms and attacking horses.
 
 
+## Noanor's Hold
+- At the entrance of High Forest, on our way to the Grand Father Tree
+- White Heart Inn 
+  - Avgar Filroy (inn keeper)
+  - Short human reddish hair
+  - Business is slowed down (because winter time)
+  - In-house guide to the High Forest has not returned
+
+
+## High Forest
+- Norantha
+  - Friendly pixie living by the rock
+- Altheitha
+  - Unicorn wandering the forest
+  - Mouring the death of her partner centuries ago
+- Thara Shindle
+  - Half-elf covered in twigs and leaves
+  - Showed up after we killed the ghasts and zombies and offered us to ask 3 yes/no questions?!
+- Twiggy
+  - Treefolk (?) called Arakokhra
+  - Member of the emerald enclave (nature centric folk taking care of the forest)
+  - Lead us to the Shadowtop Cathedral
+- Greenwhistle
+  - Singing about broken heart, probably a bard
+  - Met near the Shadowtop Cathedral
+  
+#### Shadowtop Cathedral
+- We got attacked by one of the forest druid
+
+#### Grandfather Tree
+- One of the oldest tree in the region
+- Maintained by dryads to make sure nothing evil will mess with it
+- More like a place of worship
+
+
+
 
 ### Notes 
 - Mask Lords runs Waterdeep
@@ -183,14 +219,14 @@
   - It's at blue alley in sea ward  
 
 - Find Frost Giant Parshnag __DONE__
- - Friendly roaming giant. Likes small folks
- - Can be found in the North
+  - Friendly roaming giant. Likes small folks
+  - Can be found in the North
 
 - Jacoldy & Thelsom __DONE__
- - Mirak, their brother is missing. Thinks his wife killed her.
-   - Last seen in the town square
- - Tolmora, the wife, north of the town
- - Reward: small stack of magical javelins
+  - Mirak, their brother is missing. Thinks his wife killed her.
+    - Last seen in the town square
+  - Tolmora, the wife, north of the town
+  - Reward: small stack of magical javelins
 
 
 - Darathra Shendrel
