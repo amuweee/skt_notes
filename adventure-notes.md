@@ -116,6 +116,54 @@
   - Remember a woman with black hair and purple dress.
   - Golden Goose could refer to Grand Dame River Boat
 
+- Zealia
+  - A beautiful young woman but is a super meanie. Apparently comes from a family of modest nobility and joined the nomad clan to be rebellious.
+  - Does everything to gain attention, despite being a rogue. Is often the center of attention of most other males in the nomad clan
+  - Second best hunter after Niku. Not trustworhy and often played pranks on Niku.
+  - One day left the nomad clan because she wanted to become something called an "influencer" in a big city.
+
+
+## Calling Horns
+- Tamalin (tavern keeper)
+  - Trolls have been attacking the village recently. Usually they resides in the swamps of High Forest but they've been raiding farms and attacking horses.
+
+
+## Noanor's Hold
+- At the entrance of High Forest, on our way to the Grand Father Tree
+- White Heart Inn 
+  - Avgar Filroy (inn keeper)
+  - Short human reddish hair
+  - Business is slowed down (because winter time)
+  - In-house guide to the High Forest has not returned
+
+
+## High Forest
+- Norantha
+  - Friendly pixie living by the rock
+- Altheitha
+  - Unicorn wandering the forest
+  - Mouring the death of her partner centuries ago
+- Thara Shindle
+  - Half-elf covered in twigs and leaves
+  - Showed up after we killed the ghasts and zombies and offered us to ask 3 yes/no questions?!
+- Twiggy
+  - Treefolk (?) called Arakokhra
+  - Member of the emerald enclave (nature centric folk taking care of the forest)
+  - Lead us to the Shadowtop Cathedral
+- Greenwhistle
+  - Singing about broken heart, probably a bard
+  - Met near the Shadowtop Cathedral
+  
+#### Shadowtop Cathedral
+- We got attacked by one of the forest druid
+
+#### Grandfather Tree
+- One of the oldest tree in the region
+- Maintained by dryads to make sure nothing evil will mess with it
+- More like a place of worship
+
+
+
 
 ### Notes 
 - Mask Lords runs Waterdeep
@@ -131,6 +179,16 @@
   - Cloud Giant
   - Lives on the cloud tower
   - Was attacked by a blue dragon in his tower after trying to contact another plane
+- **Mentor - Steven Seagal - Male Elf Druid**
+  - Leader of the Furries. 
+  - Originally a war refugee from a far away land, started the nomad group by gathering other refugees and outcasts.
+  - Never resorted to violence as far as Niku knows, but apparently is quite strong. Taught Niku on how to control her rage, how to fight, and how to survive in the wild.
+  - Man of strict rules. Vegan. Basically Niku's daddy figure.
+  - Last heard from him when the camp was raided (and Nitakula escaped and found way here across the sea)
+- **Tex Gallywix - Male Goblin Fighter**
+  - Cook of the nomad clan, was a throwaway baby and raised by Steven. Became really good friend with Niku as she would eat more of his cooked food than anyone else. Niku also brought him more raw food than anyone else as she was the best hunter in the clan.
+  - Very naive and gullible, and is a terrible combatant.
+  - Also last heard from when the camp was raided.
 
 ---- 
 
@@ -161,14 +219,14 @@
   - It's at blue alley in sea ward  
 
 - Find Frost Giant Parshnag __DONE__
- - Friendly roaming giant. Likes small folks
- - Can be found in the North
+  - Friendly roaming giant. Likes small folks
+  - Can be found in the North
 
 - Jacoldy & Thelsom __DONE__
- - Mirak, their brother is missing. Thinks his wife killed her.
-   - Last seen in the town square
- - Tolmora, the wife, north of the town
- - Reward: small stack of magicla javelins
+  - Mirak, their brother is missing. Thinks his wife killed her.
+    - Last seen in the town square
+  - Tolmora, the wife, north of the town
+  - Reward: small stack of magical javelins
 
 
 - Darathra Shendrel
@@ -182,9 +240,10 @@
 - Urgala Meltimer
   - One of Urgala's former adventuring companions, Harthos Zymorven, has a giant slayer greataxe. The last time Urgala spoke with him, Harthos was living in Zymorven Hall, his ancestral keep on the Rauvin Road northwest of Silverymoon.  Urgala thinks Harthos might part with the weapon if the characters mention her name to him and explain their reasoning for needing it.
 
-- Lady Dezhia Rossolio 
+- Lady Dezhia Rosolio __DONE__
   - Lost a family hairloom necklace at the casino. 500g for retrieving it, and another 500g for finding out what happened to Arton.
 
+<<<<<<< HEAD
 - Dissapearance of lords in Yartar
   - Talk to Waterbaron Nestra Ruthiol about nobles disappearing
   - Missing lords:
@@ -192,6 +251,11 @@
     - All frequents the River Dame casino
     - Timothy: missing for 4-5 weeks ago, Jacob missing for 2 weeks
 
+
+=======
+- Dissapearance of lords in Yartar __DONE__
+  - Waterbaron Nestra Ruthiol about nobles disappearing
+>>>>>>> 76c37c47b1121f9fb96da46ba7808e418781729d
 
 
 ----
@@ -228,3 +292,7 @@ Ordoning
 
 Spine of the World (mountainous range)
 - Live an oracle that knows and can help
+<<<<<<< HEAD
+=======
+- It's at blue alley in sea ward 
+>>>>>>> 76c37c47b1121f9fb96da46ba7808e418781729d
