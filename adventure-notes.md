@@ -114,7 +114,7 @@
   - Likely drifted down from the river that passes from Yartar.
   - Was out at night, remembers something about a golden goose.
   - Remember a woman with black hair and purple dress.
-  - Golden Goose could refer to Grand Dam River Boat
+  - Golden Goose could refer to Grand Dame River Boat
 
 
 ### Notes 
@@ -158,7 +158,6 @@
 
 - From Mert (Waterdeep) __DONE__
   - 250gp to retrieve an unicorn statue (stolen, seems sincere about being stolen)    
-<<<<<<< HEAD
   - It's at blue alley in sea ward  
 
 - Find Frost Giant Parshnag __DONE__
@@ -187,7 +186,13 @@
   - Lost a family hairloom necklace at the casino. 500g for retrieving it, and another 500g for finding out what happened to Arton.
 
 - Dissapearance of lords in Yartar
-  - Waterbaron Nestra Ruthiol about nobles disappearing
+  - Talk to Waterbaron Nestra Ruthiol about nobles disappearing
+  - Missing lords:
+    - Arton Rosalio (dissapeared 3 days ago)
+    - All frequents the River Dame casino
+    - Timothy: missing for 4-5 weeks ago, Jacob missing for 2 weeks
+
+
 
 ----
 
@@ -223,6 +228,3 @@ Ordoning
 
 Spine of the World (mountainous range)
 - Live an oracle that knows and can help
-=======
-  - It's at blue alley in sea ward 
->>>>>>> 1542f6f4e5f077a604d85881905df6b45346749e
