@@ -243,19 +243,12 @@
 - Lady Dezhia Rosolio __DONE__
   - Lost a family hairloom necklace at the casino. 500g for retrieving it, and another 500g for finding out what happened to Arton.
 
-<<<<<<< HEAD
 - Dissapearance of lords in Yartar
   - Talk to Waterbaron Nestra Ruthiol about nobles disappearing
   - Missing lords:
     - Arton Rosalio (dissapeared 3 days ago)
     - All frequents the River Dame casino
     - Timothy: missing for 4-5 weeks ago, Jacob missing for 2 weeks
-
-
-=======
-- Dissapearance of lords in Yartar __DONE__
-  - Waterbaron Nestra Ruthiol about nobles disappearing
->>>>>>> 76c37c47b1121f9fb96da46ba7808e418781729d
 
 
 ----
@@ -292,7 +285,4 @@ Ordoning
 
 Spine of the World (mountainous range)
 - Live an oracle that knows and can help
-<<<<<<< HEAD
-=======
 - It's at blue alley in sea ward 
->>>>>>> 76c37c47b1121f9fb96da46ba7808e418781729d
